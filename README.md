@@ -3,7 +3,8 @@ This project aims to predict the CO2 emission from various parameters such as co
 
 Link to the Model: https://drive.google.com/file/d/1a5O8AXeE59ljp6WbUBtVQchGiJKnpOpK/view?usp=drive_link
 
-Required Libraries
+Required Libraries :
+
 pip install numpy, pandas, seaborn ,streamlit ,matplotlib ,scikit-learn
 
 Steps :
